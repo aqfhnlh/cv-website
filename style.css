@@ -1,4 +1,4 @@
-/*Selector elemen (tag)*/
+/* Selector elemen (tag) */
 * { box-sizing: border-box; }
 body { margin: 0; background: #1f1f21; color: #ececef; font-family: "DM Sans", "Segoe UI", Arial, sans-serif; font-size: 1rem; line-height: 1.7; }
 h1, h2, h3, h4 { font-family: "Newsreader", Georgia, serif; color: #e8a9b8; line-height: 1.25; margin: 0 0 0.5rem; }
